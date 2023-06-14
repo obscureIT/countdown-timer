@@ -42,7 +42,7 @@ export default function Home() {
 
   return (
     
-
+    
     <div className='timer-wrapper'>
       <div className='timer-inner'></div>
 
